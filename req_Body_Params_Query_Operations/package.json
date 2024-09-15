@@ -1,0 +1,18 @@
+{
+  "name": "req_body_params_query_operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createserver.js",
+  "scripts": {
+    "start": "node createserver.js",
+    "dev": "nodemon createserver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4"
+  }
+}
