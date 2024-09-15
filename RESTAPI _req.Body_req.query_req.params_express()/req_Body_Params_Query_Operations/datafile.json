@@ -1,0 +1,22 @@
+{
+  "Products":[
+          {
+             "id":1,
+             "name":"surya",
+             "position":"sr.eng",
+             "salary":30000
+           },
+          {
+             "id":2,
+             "name":"prashant",
+             "position":"jr.eng",
+             "salary":20000
+           },
+    {
+             "id":3,
+             "name":"prashantk",
+             "position":"jr.engineer",
+             "salary":25000
+           }
+]
+}
